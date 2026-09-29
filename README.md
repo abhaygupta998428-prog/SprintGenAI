@@ -1,2 +1,1 @@
-# SprintGenAI
 SprintGenAI — An AI-powered autonomous product manager that converts product ideas into structured requirements, user stories, tasks, and sprint plans.
